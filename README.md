@@ -1,4 +1,8 @@
-### Hi there 👋
+### <br />
+
+Привет, меня зовут Mikhail, я изучаю Git и ещё несколько интересных технологий.
+
+<br />
 
 <!--
 **misheit/misheit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
